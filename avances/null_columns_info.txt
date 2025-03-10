@@ -1,0 +1,22 @@
+4, LotFrontage, 259, Continua
+7, Alley, 1369, Nominal
+26, MasVnrType, 872, Nominal
+27, MasVnrArea, 8, Continua
+31, BsmtQual, 37, Nominal
+32, BsmtCond, 37, Nominal
+33, BsmtExposure, 38, Nominal
+34, BsmtFinType1, 37, Nominal
+36, BsmtFinType2, 38, Nominal
+43, Electrical, 1, Nominal
+58, FireplaceQu, 690, Ordinal
+59, GarageType, 81, Nominal
+60, GarageYrBlt, 81, Discreta
+61, GarageFinish, 81, Nominal
+64, GarageQual, 81, Ordinal
+65, GarageCond, 81, Ordinal
+73, PoolQC, 1453, Ordinal
+74, Fence, 1179, Ordinal
+75, MiscFeature, 1406, Nominal
+
+Total registros con valores nulos: 1460
+Total valores nulos en el DataFrame: 7829
